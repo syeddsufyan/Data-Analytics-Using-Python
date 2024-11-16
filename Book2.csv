@@ -1,0 +1,18 @@
+total bill,tip,sex,smoker,day,time,size
+16.99,1.01,Female,No,Sun,Dinner,2
+10.34,1.66,Male,No,Sun,Breakfast,3
+21.01,3.5,Male,No,Sun,Lunch,3
+23.66,3.31,Male,No,Sun,Dinner,2
+23.59,3.61,Female,No,Sun,Dinner,4
+94.36,3.61,Female,No,Mon,Breakfast,4
+377.44,3.61,Female,No,Tue,Breakfast,6
+2264.64,3.61,Female,Yes,Wed,Breakfast,4
+9058.56,3.61,Female,Yes,Thu,Breakfast,2
+18117.12,3.61,Female,Yes,Fri,Dinner,1
+18117.12,3.61,Female,Yes,Sat,Dinner,5
+90585.6,3.61,Female,Yes,Sun,Lunch,6
+543513.6,3.61,Female,Yes,Mon,Lunch,4
+2174054.4,3.61,Female,Yes,Tue,Dinner,4
+8696217.6,3.61,,,Wed,,4
+34784870.4,3.61,,,Thu,,2
+69569740.8,3.61,,,Fri,,7
